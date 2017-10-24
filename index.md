@@ -1,7 +1,7 @@
 ## Welcome to my website
 
 
-<img src="IMG_3437.JPG" alt="Drawing" style="width: 200px;"/>
+<img src="IMG_3437.JPG" alt="Drawing" style="width: 100px;"/>
 
 * Full list of [Publications](/pubs.html)
 * Academic [CV](/cv/long-cv.pdf)
