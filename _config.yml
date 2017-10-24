@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I'm a ...
  
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://aaladysheva.com" # the base hostname & protocol for your site
+url: "http://aladysheva.com" # the base hostname & protocol for your site
 github_username:  aladysheva
 
 gems:
